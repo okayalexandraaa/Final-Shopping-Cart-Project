@@ -1,0 +1,28 @@
+
+img{
+    width:100px;
+    height:100px;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-around;  
+    
+
+}
+.item{
+  display:flex;
+  justify-content:space-around;
+  
+}
+.format{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.storeName{
+    background-color:pink;
+    text-align:center;
+    border:solid black 13px;
+    padding:10px;
+}
